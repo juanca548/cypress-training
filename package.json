@@ -1,0 +1,25 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanca548/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "Juan Carlos Jaramillo juanca5481999@gmail.com juanca548",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanca548/cypress-training/issues"
+  },
+  "homepage": "https://github.com/juanca548/cypress-training#readme"
+}
